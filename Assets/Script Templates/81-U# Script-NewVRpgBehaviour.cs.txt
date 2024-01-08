@@ -1,0 +1,44 @@
+/**
+ * <TemplateClassName>.cs by Toast https://github.com/dorktoast - #CREATIONDATE#
+ * VRpg Project Repo: https://github.com/GIBGames/VRpg
+ * Join the GIB Games discord at https://discord.gg/gibgames
+ * Licensed under MIT: https://opensource.org/license/mit/
+ */
+
+using UdonSharp;
+using UnityEngine;
+using VRC.SDKBase;
+using VRC.Udon;
+
+namespace GIB.VRpg
+{
+	/// <summary>
+	/// Summary of Class
+	/// </summary>
+	[UdonBehaviourSyncMode(BehaviourSyncMode.None)]
+	public class <TemplateClassName> : UdonSharpBehaviour
+	{
+		//  Fields ===============
+		#NOTRIM#
+		//  Properties ===========
+		#NOTRIM#
+		//  Methods ==============
+		#NOTRIM#
+		#region Unity Methods
+		#NOTRIM#
+		void Start()
+		{
+		#NOTRIM#
+		}
+		#NOTRIM#
+		#endregion
+		#NOTRIM#
+		#region Public Methods
+		#NOTRIM#
+		#endregion
+		#NOTRIM#
+		#region Private Methods
+		#NOTRIM#
+		#endregion
+	}
+}
